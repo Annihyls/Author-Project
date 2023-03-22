@@ -1,0 +1,3 @@
+indexPersonnage:message_a_écrire.
+$ = ligne suivante
+£indexPerso£ = remplace par le nom du perso

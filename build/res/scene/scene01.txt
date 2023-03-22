@@ -1,0 +1,4 @@
+1:C'est vous l'Auteur ?
+0:Ainsi, voici £1£$Entrant dans ma chambre noire,$En haut de ma tour d'ivoire,$De sa présence illumine$l'Antre de mon désespoir.
+1:Je ne comprend pas...
+0:Que mes créations sont stupides !
